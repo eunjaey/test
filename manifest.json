@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/eunjaey/test",
   "name": "TEST",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
-  "termsOfUseUrl": "https://eunjaey.github.io/test/erms-of-use.txt",
+  "iconUrl": "https://eunjaey.github.io/test/test.jpg",
+  "termsOfUseUrl": "https://eunjaey.github.io/test/terms-of-use.txt",
   "privacyPolicyUrl": "https://eunjaey.github.io/test/privacy-policy.txt"
 }
